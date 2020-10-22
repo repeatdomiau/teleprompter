@@ -1,0 +1,10 @@
+* {
+    padding: 0;
+    margin: 0;
+    color:white;
+    font-size: 18px;
+}
+
+input[type=number], input[type=button], button{
+    color:black;
+}
