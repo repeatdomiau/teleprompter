@@ -9,3 +9,5 @@ Run with:
 `npm install`
 
 `npm run server`
+
+Made with P5.js 
